@@ -6,4 +6,4 @@ Agrego esta linea de texto desde el editor en linea para hacer un Pull desde Git
 
 Este texto fue agregado para hacer uso de github desktop
 
-Esta linea es para simplificar un push con Visuañ estudio
+Esta linea es para simplificar un push con Visual estudio
