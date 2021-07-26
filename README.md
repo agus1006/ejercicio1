@@ -8,4 +8,3 @@ Este texto fue agregado para hacer uso de github desktop
 
 Esta linea es para simplificar un push con Visual estudio
 
-Esta linea es para simplificar otro push con visual estudio
